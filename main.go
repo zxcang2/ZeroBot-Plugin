@@ -33,7 +33,7 @@ import (
 
 	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管
 
-	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
+		_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复 
 
 	_ "github.com/FloatTech/zbputils/job" // 定时指令触发器
 
@@ -92,7 +92,7 @@ import (
 	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/music"          // 点歌
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativesetu" // 本地涩图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativewife" // 本地老婆
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nbnhhsh"    // 拼音首字母缩写释义工具
+// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nbnhhsh"    // 拼音首字母缩写释义工具
 	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/novel"          // 铅笔小说网搜索
 	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nsfw"           // nsfw图片识别
 	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/omikuji"        // 浅草寺求签
@@ -112,8 +112,8 @@ import (
 	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/vtb_quotation"  // vtb语录
 	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wangyiyun"      // 网易云音乐热评
 	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/word_count"     // 聊天热词
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wordle" // 猜单词
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ymgal"  // 月幕galgame
+// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wordle" // 猜单词
+// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ymgal"  // 月幕galgame
 
 	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/wtf"            // 鬼东西
 	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/bilibili_push"  // b站推送
@@ -138,7 +138,7 @@ import (
 
 	//  	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/curse" // 骂人
 
-	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_reply" // 人工智能回复
+// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/ai_reply" // 人工智能回复
 
 	//                               ^^^^                               //
 	//                          ^^^^^^^^^^^^^^                          //
