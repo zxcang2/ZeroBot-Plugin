@@ -33,7 +33,7 @@ import (
 
 	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管
 
-	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
+		_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
 
 	_ "github.com/FloatTech/zbputils/job" // 定时指令触发器
 
