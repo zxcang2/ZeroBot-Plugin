@@ -25,7 +25,7 @@ import (
 	//                          vvvvvvvvvvvvvv                          //
 	//                               vvvv                               //
 
-		_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chat" // 基础词库
+	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/chat" // 基础词库
 
 	//  	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/sleep_manage" // 统计睡眠时间
 
@@ -33,7 +33,7 @@ import (
 
 	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/manager" // 群管
 
-// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
+	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/thesaurus" // 词典匹配回复
 
 	_ "github.com/FloatTech/zbputils/job" // 定时指令触发器
 
@@ -93,6 +93,7 @@ import (
 	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/music"          // 点歌
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativesetu" // 本地涩图
 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nativewife" // 本地老婆
+
 	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nbnhhsh"    // 拼音首字母缩写释义工具
 	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/novel"          // 铅笔小说网搜索
 	// 	_ "github.com/FloatTech/ZeroBot-Plugin/plugin/nsfw"           // nsfw图片识别
